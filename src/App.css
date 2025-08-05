@@ -33,3 +33,16 @@ button{
 .exercise {
     margin-bottom: 10px;
 }
+
+.clickBtn
+{
+  color:white;
+  background-color: red;
+  height: 30px;
+  width: 90px;
+}
+
+#ex-2{
+      display: grid;
+      grid-template-columns: repeat(10, 1fr)
+    }
